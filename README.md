@@ -1,0 +1,2 @@
+# gitCourse
+for excersises 
